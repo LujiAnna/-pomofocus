@@ -4,13 +4,13 @@ User will be able to make a pomodoro countdown timer with short and long break. 
 
 ## Demo
 
-> View a working [live demo here](https://lujianna.github.io/pomofocus/)
+View a working [live demo here](https://lujianna.github.io/pomofocus/)
 
 ## Objectives
 
-> Learning Javascript Asynchronous Programming: Call Stack, Closure, Event Loop
+Learning Javascript Asynchronous Programming: Call Stack, Closure, Event Loop
 
-> This is a reverse-engineering webApp [pomofocus.io](pomofocus.io)(minus the Report, Settings and Login buttons). 
+> This is a reverse-engineering webApp [pomofocus.io](https://pomofocus.io/)(minus the Report, Settings and Login buttons). 
 
 ## Implementation
 
@@ -29,7 +29,7 @@ User will be able to make a pomodoro countdown timer with short and long break. 
 
 ## Acknowledgement
 
-[pomofocus.io](pomofocus.io)
+[pomofocus.io](https://pomofocus.io/)
 [boiler plate](https://github.com/HackYourFutureBelgium/starter-basic-import-export)
 
 ## Licence
