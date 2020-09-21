@@ -1,8 +1,14 @@
 # Pomofocus
 
 * Countdowntimer
+1. Set estimate pomodoros (1 = 25min of work) also for each tasks
+2. Start timer for 25 minutes also can focus on the task
+3. Take a short-break for 5 minutes also when the alarm ring
+4. Take a long-break for 15 minutes also when the alarm ring
 
 * Todo List
+1. Add tasks to work on today
+2. Select a task to work on
 
 ## User Story Dependencies
 
