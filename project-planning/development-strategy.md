@@ -30,7 +30,7 @@
 
 __As a user I want to see the initial page when I load the site__
 
-- _Given [context] when [a specific action is performed] then [a set of consequences should occur]__
+- _Given the webpage-link when a user clicks the link then he should see a Pomodoro 25 min & seconds countdown timer with a  __
 - ...
 
 ### REPO
