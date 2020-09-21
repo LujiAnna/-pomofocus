@@ -6,6 +6,9 @@ A collection of user stories you can choose from.  Stories inside of each priori
 
 > these are necessary for basic usability
 
+1. Countdown timer
+2. Tasks
+
 - [ ] As a ... I want to ... so that ...
   - _Given [context] when [a specific action is performed] then [a set of consequences should occur]_
 
@@ -13,12 +16,20 @@ A collection of user stories you can choose from.  Stories inside of each priori
 
 > these will complete the user experience, but are not necessary
 
+1. App explanation
+2. How to use the webApp
+3. Features of the App
+
 - [ ] As a ... I want to ... so that ...
   - _Given [context] when [a specific action is performed] then [a set of consequences should occur]_
 
 ## Could-Haves
 
 > would be really cool ... if there's time
+
+1. Report
+2. Setting
+3. Login
 
 - [ ] As a ... I want to ... so that ...
   - _Given [context] when [a specific action is performed] then [a set of consequences should occur]_
